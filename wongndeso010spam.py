@@ -13,7 +13,7 @@ def main():
 	'''
 
 	print(banner)
-	no = input('taerget : ')
+	no = input('target : ')
 	jum = input('jumlah spam : ')
 
 	head = {
